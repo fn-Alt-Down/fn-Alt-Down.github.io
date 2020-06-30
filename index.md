@@ -6,3 +6,4 @@ He has a friend and partner in Dr. Watson and together they solve difficult crim
 * Plays the violin
 * Solves crime
 * has a photographic memory
+> When you have eliminated the impossible, whatever remains, however improbable, must be the truth.
