@@ -7,3 +7,4 @@ He has a friend and partner in Dr. Watson and together they solve difficult crim
 * Solves crime
 * has a photographic memory
 > When you have eliminated the impossible, whatever remains, however improbable, must be the truth.
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Sherlock_Holmes_Portrait_Paget.jpg"/>
